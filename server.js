@@ -85,3 +85,4 @@ initDb(function(err){
 
 app.listen(port, ip);
 console.log('Server running on ' + ip + ':' + port);
+console.log('Michael Burdeos edit = 1');
